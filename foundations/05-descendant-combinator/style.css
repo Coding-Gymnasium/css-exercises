@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+div p {
+  background: hsl(48, 93%, 53%);
+  color: hsl(356, 100%, 41%);
+  font-size: 20px;
+  text-align: center;
+}
+
+p {
+  margin: 0.5rem;
+  padding: 0.25rem;
+}
