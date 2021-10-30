@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.button-black {
+  background: #000;
+  color: #fff;
+  margin: 1rem 0.175rem 1rem 1rem;
+}
+
+.button-yellow {
+  background: hsl(48, 93%, 53%);
+  color: #000;
+  margin: 1rem 1rem 1rem 0.175rem;
+}
+
+.button-black,
+.button-yellow {
+  font-family: Helvetica, 'Times New Roman', sans-serif;
+  font-size: 28px;
+  padding: 0.5rem;
+}
